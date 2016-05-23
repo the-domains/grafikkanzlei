@@ -2,15 +2,22 @@
     <channel>
         <title><![CDATA[Grafikkanzlei]]></title>
         <description><![CDATA[Grafikkanzlei]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/grafikkanzlei/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 23 May 2016 09:03:39 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 23 May 2016 09:03:40 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/grafikkanzlei/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Massimo Vignelli's Signed 2012 NYC Subway Diagram]]></title>
             <description><![CDATA[<article><h1>Massimo Vignelli's Signed 2012 NYC Subway Diagram</h1><p>Less than one year ago, the world lost one of its most important creative minds with the passing of Massimo Vignelli. The celebrated graphic designer bestowed upon us a great number of now-iconic designs, though perhaps none more visibly lasting than his 1972 MTA New York City Transit subway map.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8f32d0a35a78621feb4c771f37440467815b250e.jpg"></article>]]></description>
             <link>http://www.coolhunting.com/design/massimo-vignelli-2012-nyc-subway-signed-poster</link>
             <guid isPermaLink="false">4e264762-780f-414c-93d6-881450cc92e9</guid>
+            <pubDate>Mon, 23 May 2016 09:03:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bits And Pieces - An organic wave of Hoberman Spheres]]></title>
+            <description><![CDATA[<article><h1>Bits And Pieces - An organic wave of Hoberman Spheres</h1><p>Currently on show at Berlin's NOME Gallery is the latest work by Nils Völker titled Bits And Pieces. The installation consists out of 108 mass-produced toy spheres hanging in the middle of the exhibition space, individually addressable and controlled, to create organic waves that appear to move throughout the space.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/29c17de1db318a16ae7c090ab6a2dab8f308c76c.jpg"></article>]]></description>
+            <link>http://www.creativeapplications.net/news/bits-and-pieces-an-inverted-landscape-of-always-moving-hoberman-spheres/</link>
+            <guid isPermaLink="false">f1ce1b48-7427-4d01-a8c8-3b4d65013600</guid>
             <pubDate>Mon, 23 May 2016 09:03:38 GMT</pubDate>
         </item>
     </channel>
