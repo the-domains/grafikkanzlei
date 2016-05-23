@@ -11,6 +11,10 @@ color:
     - '#3E363F'
     - '#DD403A'
 layout_spectrum: 0.12386610172688961
+author:
+  name: Raphael Van Loo
+  email: raphael.vanloo@gmail.com
+logo: null
 name: Grafikkanzlei
 favicon: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/edac4450-7281-46b9-a4f3-70402399734d.png'
-title: Gebrauchsgrafik - Graphic Design
+title: Grafik Graphics Design
